@@ -1,0 +1,29 @@
+.katCubuk{
+    position: relative;
+    width:100%;
+}
+.katCubuk h4{
+    text-transform: uppercase;
+    font-size:14pt;
+    z-index: 5123123;
+    padding:5px;
+    display: inline-block;
+    background-color:white;
+    color:rgb(153, 123, 63);
+}
+.katCubuk span{
+    z-index: -1;
+    top:38px;
+    position:absolute;
+    width:100%;
+    height:2px;
+    background: rgba(211, 128, 65, 0.671);
+}
+
+.sayfalama li{
+    list-style: none;
+    margin-right:10px;
+    float:left;
+}.sayfalama a{text-decoration:none;color:rgb(27, 27, 27);}
+.sayfalama a:hover{color:gray;}
+li.bitti a{color:rgb(150, 76, 76) !important;}

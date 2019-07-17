@@ -1,0 +1,18 @@
+############################ KURULUM ###################################
+
+1. Dosyaları rar'dan çıkartın. 
+2. Deep klasörünün içerisinde bulunan gir.php'yi kendi veritabanınıza göre düzenleyip kaydedin.
+3. Tüm dosyaları FTP aracılığıyla kurulum yapacağınız dizine atın.
+4. phpMyAdmin'den size verilen .sql dosyasını import edin.
+5. www.siteniz.uzanti/panel'e giriş yapın(admin:admin).
+6. Genel Ayarları düzenlemeden önce kategoriler'e girin.
+7. Sitenizde bulunmasını istediğiniz tüm kategorileri ekleyin.
+8. Ardından menüler'e gelin. Menüde olmasını istediğiniz tüm menüleri ekleyin, eklerken 'menü adı' kısmına menüde görülecek olan adı, bağlı kategoriye de o menüye girildiğinde görülecek kategoriyi seçin. yan ikon kısmına, https://fontawesome.com/icons?d=gallery adresinden istediğiniz ücretsiz(free) ikonun sadece adını girin. Örneğin : address-book yada angle-double-left yada basketball-ball gibi...
+9. Tüm menüleri ekledikten sonra Genel ayarlara girin.
+10. Anasayfanızda kullanacağınız tasarıma göre kategorileri seçin ve kaç slide gösterileceğini girin.
+11. Artık haberlerinizi ekleyebilirsiniz, haber ekle menüsünden haberlerinizi ekleyebilirsiniz.
+12. Haberler için kapak resmi URL kısmında ve haber içerisinde kullanmanız gereken resimleri sunucunuza/sitenize yüklemek için paneldeki 'Foto Yükle' kısmını kullanabilirsiniz.
+13. Kalan ayarları(reklamlar, sosyal medya, yasal sayfalar vs.) da kendinize göre düzenlemeyi unutmayın!
+
+####################### HAYIRLI KULLANIMLAR ##############################
+*** mert can uslu ***
